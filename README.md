@@ -18,11 +18,11 @@
   </div>
 
   <img src="demo.jpg" alt="Project 1"
-       style="float:left; width:50%;">
+       style="float:right; width:50%;">
 </div>
 
 <div style="overflow: hidden;">
-  <div style="float:right; width:50%;">
+  <div style="float:left; width:50%;">
     <h3>Project 2</h3>
     <p>Project 2 example</p>
   </div>
