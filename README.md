@@ -12,11 +12,11 @@
 <h1>Projects</h1>
 <h2>Project 1</h2>
 <p>Project 1 example</p>
-<img src="demo.jpg" width="500" height="333">
+<img src="demo.jpg" alt = "Project 1" width="500" height="333">
 
 <h1>Project 2</h1>
 <p>Project 2 example</p>
-<img src="demo.jpg" width="500" height="333">
+<img src="demo.jpg" alt = "Project 2" width="500" height="333">
 
 </body>
 </html>
