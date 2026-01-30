@@ -6,16 +6,16 @@
 <p>About me section here.</p>
 <img src="demo.jpg" width="500" height="333">
 
-<h1>Contacts</h1>
+<h2>Contacts</h2>
 <p>contacts here</p>
 
-<h1>Projects</h1>
+<h2>Projects</h2>
 <div style="clear: both">
-<h2 style="float: left">Project 1</h2>
+<h3 style="float: left">Project 1</h3>
 <p style="float: left">Project 1 example</p>
 <img src="demo.jpg" alt = "Project 1" width="500" height="333">
 
-<h2 style="float: right">Project 2</h2>
+<h3 style="float: right">Project 2</h3>
 <p style="float: right">Project 2 example</p>
 <img src="demo.jpg" alt = "Project 2" width="500" height="333">
 </div>
