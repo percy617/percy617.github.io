@@ -3,7 +3,7 @@
 
 <h1>Welcome to my page!</h1>
 <h2>About me</h2>
-<img src="demo.jpg" width="500" height="333">
+<img src="demo.jpg" width="200" height="350">
 <p>About me section here.</p>
 
 <h2>Contacts</h2>
