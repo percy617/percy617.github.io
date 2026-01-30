@@ -15,7 +15,7 @@
 <p style="float: left">Project 1 example</p>
 <img src="demo.jpg" alt = "Project 1" width="500" height="333">
 
-<h1 style="float: right">Project 2</h1>
+<h2 style="float: right">Project 2</h2>
 <p style="float: right">Project 2 example</p>
 <img src="demo.jpg" alt = "Project 2" width="500" height="333">
 </div>
