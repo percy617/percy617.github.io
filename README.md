@@ -3,8 +3,8 @@
 
 <h1>Welcome to my page!</h1>
 <h2>About me</h2>
-<p>About me section here.</p>
 <img src="demo.jpg" width="500" height="333">
+<p>About me section here.</p>
 
 <h2>Contacts</h2>
 <p>contacts here</p>
