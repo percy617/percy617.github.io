@@ -10,16 +10,21 @@
 <p>contacts here</p>
 
 <h2>Projects</h2>
-<div style="clear: both">
-<h3 style="float: left ; width: 50%;">Project 1</h3>
-<p style="float: left ; width: 50%;">Project 1 example</p>
-<img src="demo.jpg" alt = "Project 1" width="500" height="333" style="float: left ; width: 50%;>
+
+<div style="clear: both;">
+  <h3 style="float: left; width: 50%;">Project 1</h3>
+  <p style="float: left; width: 50%;">Project 1 example</p>
+  <img src="demo.jpg" alt="Project 1"
+       width="500" height="333"
+       style="float: left; width: 50%;">
 </div>
 
-<div style="clear: both">
-<h3 style="float: right; width: 50%; text-align: right;">Project 2</h3>
-<p style="float: right; width: 50%; text-align: right;">Project 2 example</p>
-<img src="demo.jpg" alt = "Project 2" width="500" height="333" style="float: right; width: 50%;>
+<div style="clear: both;">
+  <h3 style="float: right; width: 50%; text-align: right;">Project 2</h3>
+  <p style="float: right; width: 50%; text-align: right;">Project 2 example</p>
+  <img src="demo.jpg" alt="Project 2"
+       width="500" height="333"
+       style="float: right; width: 50%;">
 </div>
 </body>
 </html>
