@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 <html>
   <head>
     <title>Testing to see where this goes</title>
