@@ -9,7 +9,7 @@
     <p>Project 1 example</p>
   </div>
 
-  <img src="demo.jpg" alt="Project 1"
+  <img src="/demo.jpg" alt="Project 1"
        style="float:right; width:50%;">
 </div>
 
@@ -19,7 +19,7 @@
     <p>Project 2 example</p>
   </div>
 
-  <img src="demo.jpg" alt="Project 2"
+  <img src="/demo.jpg" alt="Project 2"
        style="float:right; width:50%;">
 </div>
 
