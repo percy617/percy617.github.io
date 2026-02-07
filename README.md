@@ -7,8 +7,8 @@
 <ol>
   <li><a href="https://percy617.github.io/subpages/AboutMe">About Me</a></li>
   <li><a href="https://percy617.github.io/subpages/experience">Experience</a></li>
-  <li><a href="https://percy617.github.io/subpages/hobbies">About Me</a></li>
-  <li><a href="https://percy617.github.io/subpages/projects">About Me</a></li>
+  <li><a href="https://percy617.github.io/subpages/hobbies">Hobbies</a></li>
+  <li><a href="https://percy617.github.io/subpages/projects">Projects</a></li>
 </ol>
 
 </body>
