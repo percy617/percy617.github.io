@@ -6,7 +6,9 @@
 <p>About me section here.</p>
 
 <h2>Contacts</h2>
-<p>contacts here</p>
-
+<form>
+<label for="email">Type email here:</label><br>
+<input type="text" id="email" name="email"><br>
+</form>
 </body>
 </html>
