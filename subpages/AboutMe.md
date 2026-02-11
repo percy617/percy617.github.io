@@ -9,7 +9,7 @@
 <form action ="/emails.php">
   <label for="email">Type your email here:</label><br>
   <input type="text" pattern= "@" id="email" name="email" required><br>
-  <input type="submit" value = "Submit"?
+  <input type="submit" value = "Submit">
 </form>
 </body>
 </html>
