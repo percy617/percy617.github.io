@@ -6,9 +6,9 @@
 <p>About me section here.</p>
 
 <h2>Contacts</h2>
-<form action ="/emails.php">
+<form>
   <label for="email">Type your email here:</label><br>
-  <input type="text" pattern= "@" id="email" name="email" required><br>
+  <input type="email" id="email" name="email" required><br>
   <input type="submit" value = "Submit">
 </form>
 </body>
