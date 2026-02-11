@@ -1,5 +1,10 @@
 
 <html>
+<header>
+  <title>Brandon F's landing page</title>
+  <meta name="description" content="Menu for Brandon F's personal page">
+  <meta name="title" content="Brandon F's landing page">
+</header>
 <body>
 
 <h1>Welcome to my page!</h1>
