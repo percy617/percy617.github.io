@@ -23,7 +23,11 @@
     <th>N/A</th>
     <th>Currently in progress</th>
   </tr>
-  
+  <tr>
+    <th>internship in computer science</th>
+    <th>ongoing</th>
+    <th>currently working at an internship</th>
+  </tr>
 </table>
 </body>
 </html>
