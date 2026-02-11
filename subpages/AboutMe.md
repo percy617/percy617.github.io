@@ -6,7 +6,7 @@
 <p>About me section here.</p>
 
 <h2>Contacts</h2>
-<form>
+<form action = "/email.txt" method = "post">
   <label for="email">Type your email here:</label><br>
   <input type="email" id="email" name="email" required><br>
   <input type="submit" value = "Submit">
