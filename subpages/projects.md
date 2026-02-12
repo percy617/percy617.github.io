@@ -57,7 +57,7 @@
 </div>
 
 <footer>
-    © 2026 Brandon F | Personal Portfolio Website
+    2026 Brandon F
 </footer>
 
 </body>
