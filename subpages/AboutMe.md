@@ -9,7 +9,7 @@
   
 <body>
   
-nav>
+<nav>
   <a href="../index.html">Home</a>
   <a href="AboutMe.html">About</a>
   <a href="experience.html">Experience</a>
