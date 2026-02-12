@@ -7,6 +7,7 @@
 <body>
   
 <h1><a href="https://percy617.github.io">Return Home</a></h1>
+<p>.<a href=" https://github.com/percy617" >Click here to view my github profile.</a></p>
 
 <h2>Projects</h2>
 
