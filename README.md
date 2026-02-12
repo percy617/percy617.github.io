@@ -28,7 +28,7 @@
 </div>
 
 <footer>
-    © 2026 Brandon F
+    2026 Brandon F
 </footer>
 
 </body>
