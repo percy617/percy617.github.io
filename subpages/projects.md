@@ -14,7 +14,7 @@
 <div style="overflow: hidden; margin-bottom: 20px;">
   <div style="float:left; width:50%;">
     <h3>Project: Managing databases using sql</h3>
-    <p>This projects was to manage a fictional databases sql system using C++ and sql. This project involved writing the c++ code to make the sql into a more user friendly form and easier for someone to work with and manage.<a href="https://github.com/CSCI210-FW/fa25-m08-final-project-percy617)" >Click here to see the projects repository.</a> </p>
+    <p>This projects was to manage a fictional databases sql system using C++ and sql. This project involved writing the c++ code to make the sql into a more user friendly form and easier for someone to work with and manage.<a href="https://github.com/CSCI210-FW/fa25-m08-final-project-percy617" >Click here to see the projects repository.</a> </p>
   </div>
 
   <img src="/project1.JPG" alt="an example of the project in action, showing how the table is displayed to the user and the menu with the options."
