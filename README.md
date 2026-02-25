@@ -1,11 +1,13 @@
 
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
   <title>Brandon F's landing page</title>
   <meta name="description" content="Menu for Brandon F's personal page">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/x-icon" href="/logo.ico">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
 
@@ -25,7 +27,7 @@
   </nav>
 </header>
 
-<div class="container">
+<main class="container">
   <h1>Welcome to my page!</h1>
   <h2>Please select a page from the options below </h2>
   <ol>
@@ -34,7 +36,7 @@
     <li><a href="https://percy617.github.io/subpages/hobbies">Hobbies</a></li>
     <li><a href="https://percy617.github.io/subpages/projects">Projects</a></li>
   </ol>
-</div>
+</main>
 
 <footer>
     2026 Brandon F
