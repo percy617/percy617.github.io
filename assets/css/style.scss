@@ -13,22 +13,30 @@ body {
     background-color: #f4f4f4;
     color: #222;
 }
-
-nav {
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
     background-color: #222;
-    padding: 15px;
-    text-align: center;
 }
 
-nav a {
+.logo img {
+    width: 120px;
+    height: auto;
+}
+
+.main-nav a {
     color: white;
     text-decoration: none;
-    margin: 0 15px;
+    margin-left: 20px;
     font-weight: bold;
+    padding: 8px 12px;
+    border-radius: 5px;
 }
 
-nav a:hover {
-    text-decoration: underline;
+.main-nav a:hover {
+    background-color: #444;
 }
 
 .container {
@@ -102,4 +110,25 @@ footer {
     margin-top: 40px;
     background-color: #222;
     color: white;
+}
+
+@media (max-width: 768px) {
+
+    .site-header {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .main-nav {
+        margin-top: 10px;
+    }
+
+    .main-nav a {
+        display: block;
+        margin: 8px 0;
+    }
+
+    .logo img {
+        width: 100px;
+    }
 }
