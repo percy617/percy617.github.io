@@ -119,6 +119,41 @@ body {
   text-decoration: none;
 }
 
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 24px;
+  font-size: 15px;
+}
+
+table tr:first-child th {
+  background-color: #00416A;
+  color: #ffffff;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  padding: 14px 20px;
+  text-align: left;
+}
+
+table tr:not(:first-child) th {
+  font-weight: 400;
+  padding: 14px 20px;
+  text-align: left;
+  border-bottom: 1px solid #e1e5ea;
+  color: #333;
+}
+
+table tr:not(:first-child):nth-child(even) {
+  background-color: #f4f8fb;
+}
+
+table tr:not(:first-child):hover {
+  background-color: #e8f1f8;
+  transition: background-color 0.2s ease;
+}
+
 
 footer {
   text-align: center;
