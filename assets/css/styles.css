@@ -12,6 +12,18 @@ body {
   color: #222;
 }
 
+.row {
+  display: flex;
+  gap: 20px;
+  margin-top: 24px;
+  align-items: flex-start;
+}
+
+.column {
+  flex: 1;
+  min-width: 0; /* critical — prevents flex children from overflowing */
+}
+
 .site-header {
   display: flex;
   justify-content: space-between;
@@ -117,6 +129,12 @@ body {
   font-size: 18px;
   font-weight: 600;
   text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 table {
