@@ -4,6 +4,7 @@
   <title>Brandon F's landing page</title>
   <meta name="description" content="Menu for Brandon F's personal page">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="/logo.ico">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
