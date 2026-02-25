@@ -11,7 +11,7 @@
 <header class="site-header">
   <div class="logo">
     <a href="index.html">
-      <img src="logo.png" alt="Brandon F Logo">
+      <img src="logo.jpg" alt="a Logo">
     </a>
   </div>
 
