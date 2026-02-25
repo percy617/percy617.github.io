@@ -7,14 +7,22 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  
-<nav>
+
+<header class="site-header">
+  <div class="logo">
+    <a href="index.html">
+      <img src="logo.png" alt="Brandon F Logo">
+    </a>
+  </div>
+
+  <nav class="main-nav">
     <a href="index.html">Home</a>
     <a href="subpages/AboutMe.html">About</a>
     <a href="subpages/experience.html">Experience</a>
     <a href="subpages/hobbies.html">Hobbies</a>
     <a href="subpages/projects.html">Projects</a>
-</nav>
+  </nav>
+</header>
 
 <div class="container">
   <h1>Welcome to my page!</h1>
