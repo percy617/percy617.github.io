@@ -3,20 +3,29 @@
   <title>Brandon F's about me section</title>
   <meta name="description" content="Brandon F's about me section with a breif introduction">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="/logo.ico">
   <link rel="stylesheet" href="../styles.css">
 </head>
   
   
 <body>
   
-<nav>
-  <a href="../index.html">Home</a>
-  <a href="AboutMe.html">About</a>
-  <a href="experience.html">Experience</a>
-  <a href="hobbies.html">Hobbies</a>
-  <a href="projects.html">Projects</a>
-</nav>
-  
+<header class="site-header">
+  <div class="logo">
+    <a href="index.html">
+      <img src="logo.jpg" alt="a Logo">
+    </a>
+  </div>
+
+  <nav class="main-nav">
+    <a href="index.html">Home</a>
+    <a href="subpages/AboutMe.html">About</a>
+    <a href="subpages/experience.html">Experience</a>
+    <a href="subpages/hobbies.html">Hobbies</a>
+    <a href="subpages/projects.html">Projects</a>
+  </nav>
+</header>
+
 <div class="container">
   <h1>About me</h1>
   <div class="row">
