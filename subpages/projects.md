@@ -13,7 +13,7 @@
 <header class="site-header">
   <div class="logo">
     <a href="index.html">
-      <img src="logo.jpg" alt="a Logo">
+      <img src="/logo.jpg" alt="a Logo">
     </a>
   </div>
 
