@@ -215,4 +215,17 @@ footer {
   .container {
     margin: 20px;
   }
+  
+  table {
+    table-layout: auto;
+    font-size: 13px;
+  }
+  
+  table th,
+  table td {
+    white-space: normal;
+    padding: 10px 8px;
+    word-break: break-word;
+  }
 }
+
