@@ -7,6 +7,8 @@
   <link rel="stylesheet" href="../styles.css">
 </head>
 
+<body>
+
 <header class="site-header">
   <div class="logo">
     <a href="index.html">
